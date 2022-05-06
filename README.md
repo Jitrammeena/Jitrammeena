@@ -6,5 +6,6 @@
 
 <!---
 Jitrammeena/Jitrammeena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+अपने परिवर्तनों पर एक नज़र डालने के लिए आप पूर्वावलोकन लिंक पर क्लिक कर सकते हैं।
+मैं
+अनुपयोगी हैं। मुझे पता है कि कैसे खुद को परिभाषित किया गया है। आपके साथ के लिए। गम हा हा, इस समस्या का सामना करने वाला प्रकाश चमक रहा है। यह विवरण नहीं है
